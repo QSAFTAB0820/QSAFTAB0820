@@ -86,7 +86,7 @@ Passionate about turning data into insights and building end-to-end machine lear
 ## 📫 How to Reach Me
 
 - **GitHub:** [github.com/QSAFTAB0820](https://github.com/QSAFTAB0820)  
-- **LinkedIn:** [linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/your-linkedin-id) <!-- Replace with your actual LinkedIn URL -->
+- **LinkedIn:** [linkedin.com/in/your-linkedin-id]([https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/sk-aftab-84951b353/)) <!-- Replace with your actual LinkedIn URL -->
 
 ---
 
